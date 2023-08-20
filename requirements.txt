@@ -1,0 +1,11 @@
+python-dotenv
+moviepy
+pytube
+openai
+langchain
+langchain-experimental
+pinecone-client
+tiktoken
+unstructured
+google-api-python-client
+pypdf
